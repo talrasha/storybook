@@ -15,6 +15,7 @@
   <a href="https://www.codefactor.io/repository/github/storybookjs/storybook">
     <img src="https://www.codefactor.io/repository/github/storybookjs/storybook/badge" alt="CodeFactor" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ftalrasha%2Fstorybook?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftalrasha%2Fstorybook.svg?type=shield"/></a>
   <a href="https://snyk.io/test/github/storybookjs/storybook">
     <img src="https://snyk.io/test/github/storybookjs/storybook/badge.svg" alt="Known Vulnerabilities" />
   </a>
@@ -54,6 +55,9 @@ It allows you to browse a component library, view the different states of each c
   <a href="https://github.com/storybookjs/storybook/blob/master/README.md" title="latest"><img alt="latest" src="https://img.shields.io/npm/v/@storybook/core/latest.svg" /></a>
   <a href="https://github.com/storybookjs/storybook/blob/next/README.md" title="next"><img alt="next" src="https://img.shields.io/npm/v/@storybook/core/next.svg" /></a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftalrasha%2Fstorybook.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftalrasha%2Fstorybook?ref=badge_large)
 
 ## Table of contents
 
